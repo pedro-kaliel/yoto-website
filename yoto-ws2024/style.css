@@ -57,6 +57,12 @@ header.rolagem ul a{
     color: white;
 }
 
+.btn-bege{
+    background-color: #FFF7EE !important;
+    color: #D16128 !important;
+    border-color: #D16128 !important;
+}
+
 .bg-bege{
     background-color: #FFF7EE;
 }
@@ -77,5 +83,12 @@ header.rolagem ul a{
 
 .border-laranja{
     border-color: #D16128 !important;
+    
+}
+
+.chef-title{
+    font-size:40px ;
+    font-weight:500 ;
+    color: #DB7434;
 }
 
